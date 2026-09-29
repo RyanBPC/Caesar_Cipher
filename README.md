@@ -1,4 +1,4 @@
-# Caesar Cipher
+# Caesar Cipher (Python)
 
 This project is my take on the original Caesar Cipher. A simple encryption technique where each letter in a message is shifted by the user's chosen amount. I built this to practice loops, modular arithmetic, and a user interaction in Python. It supports both encoding and decoding, handles symbols, and has a little ASCII art to represent what the program is.
 
